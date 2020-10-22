@@ -1,0 +1,39 @@
+body {
+    height: 98vh;
+}
+
+div {
+    /* vh - VIEWPORT HEIGHT */
+    /* 1vh = 1% viewport height */
+    /* height: calc(98vh/7) */
+    /* height: 100px; */
+    height: 14%;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.indigo {
+    background-color: indigo;
+}
+
+.violet {
+    background-color: violet;
+}
